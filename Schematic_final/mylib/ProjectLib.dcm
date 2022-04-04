@@ -1,0 +1,42 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP22653W6-7
+F https://www.diodes.com/assets/Datasheets/AP22652_53_52A_53A.pdf
+$ENDCMP
+#
+$CMP ARJM11B1-502-AB
+D 1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX
+F https://abracon.com/Magnetics/ARJM11.pdf
+$ENDCMP
+#
+$CMP BF4-RX-14DS-0.5V
+F https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/BF4-RX-14DS-0-5V/8018063
+$ENDCMP
+#
+$CMP BF4-TX-14DS-0.5V
+F https://www.hirose.com/en/product/document?clcode=&productname=&series=BF4M&documenttype=Guideline&lang=en&documentid=D166284_en
+$ENDCMP
+#
+$CMP IP4233CZ6
+D 4-Channel ESD Protection Diode for Ethernet
+F https://assets.nexperia.com/documents/data-sheet/IP4233CZ6.pdf
+$ENDCMP
+#
+$CMP ISL54220IUZ-T
+D USB High/Full Speed Switches/MUXs High-Speed USB 2.0 (480Mbps) Multiplexer
+F https://www.renesas.com/en-us/www/doc/datasheet/isl54220.pdf
+$ENDCMP
+#
+$CMP SW_PW
+D Power switch
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP USB4125-GF-A
+D USB 2.0-only Type-C Plug connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+#End Doc Library
