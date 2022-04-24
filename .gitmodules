@@ -1,0 +1,3 @@
+[submodule "RPiCM4"]
+	path = RPiCM4
+	url = git@github.com:kotaniko/dual-imaging_RaspberryOS.git
