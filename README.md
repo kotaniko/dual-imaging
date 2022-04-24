@@ -4,10 +4,7 @@
 
 ## Demonstration Video
 
-![Video](media/Demo_Video_720p.mp4)
-
-
-https://user-images.githubusercontent.com/22487346/164982868-4cf601ac-d000-4470-aba1-222e2823f3bd.mp4
+https://user-images.githubusercontent.com/22487346/164984304-3e48e70a-c83b-4c12-9497-3e3b185fa539.mov
 
 
 ## Hardware
