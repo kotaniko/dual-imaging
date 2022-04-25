@@ -16,7 +16,7 @@ This repository contains the development details of dual-imaging display using t
 ## System Architecture
 Below shows the overview of the dual-imaging display system.
 
-![System Overview](media/System_Overview.png)
+![System Overview](./media/System_Overview.png)
 
 MIPI CSI-2 Rx Subsystem IP core is used for interfacing with the camera modules, and Aurora8B10B Ip core for interfacing with the fiber-optic transceiver operating up to 6.25 Gbps. On the receiver FPGA, DMA/Bridge Subsystem for PCI Express IP core is used for interfacing with the Raspberry Pi Compute Module 4 over PCIe.
 
@@ -24,11 +24,11 @@ Post-synthesis re-routing on the RX FPGA is needed for GTP clock signals as Auro
 
 ## Images of the Prototype
 
-![Side view](media/img_side.jpg)
+![Side view](./media/img_side.jpg)
 
-![TX board](media/img_TXboard.jpg)
+![TX board](./media/img_TXboard.jpg)
 
-![RX board](media/img_RXboard.jpg)
+![RX board](./media/img_RXboard.jpg)
 
 ## Demonstration Video
 Below video demonstrates that the two camera data stream are transmitted to the Raspberry Pi Compute Module 4 at 1.0 Gbps. The RPiCM4 was capable of receiving the data stream to /dev/null at 2.0 Gbps, but the maximum data rate to write the data stream to its RAM was 1.0 Gbps.
